@@ -1,3 +1,4 @@
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3883466&assignment_repo_type=AssignmentRepo)
 # ECE 208 Homework 1: Warm-Up
 In this homework assignment, you will be doing some basic warm-up for this course. This assignment includes programming as well as theoretical components to ensure you are comfortable with both sides of the prerequisites of this course. As with all homework assignments in this class, be sure to follow the instructions carefully to ensure that you receive full credit. All coding for this assignment must be done in **Python 3**.
 
